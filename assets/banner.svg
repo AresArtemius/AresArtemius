@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Ares — Artem Kukhar</title><desc id="desc">Apps, automation and creative engineering. Dark charcoal banner with crimson and gold accents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10151f"/><stop offset="1" stop-color="#211318"/></linearGradient><linearGradient id="red"><stop stop-color="#a31f35"/><stop offset="1" stop-color="#eb4251"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1280" height="340" rx="18" fill="url(#bg)"/><rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+<path d="M980 -70 1250 170 980 410H1080L1350 170 1080-70Z" fill="#b42332" opacity=".2"/>
+<path d="M905 70 1010 170 905 270" fill="none" stroke="#d2ac73" stroke-width="2" opacity=".55"/>
+<path d="M966 100 1040 170 966 240" fill="none" stroke="#dc374a" stroke-width="13"/>
+<rect x="58" y="57" width="45" height="5" rx="2" fill="url(#red)"/>
+<text x="58" y="104" fill="#d2ac73" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="5">ARTEM KUKHAR / @ARESARTEMIUS</text>
+<text x="52" y="210" fill="#f6f4f2" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="700" letter-spacing="7">ARES</text>
+<text x="58" y="253" fill="#c9c6cc" font-family="Arial,Helvetica,sans-serif" font-size="23">Apps. Automation. Creative engineering.</text>
+<text x="58" y="300" fill="#8f909b" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">FLUTTER + SUPABASE   /   CCXT + TELEGRAM</text>
+</svg>
