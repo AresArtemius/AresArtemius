@@ -4,9 +4,21 @@
 
 # Hey, I'm Artem Kukhar (aka Ares) 👋
 
-**I build mobile apps, web platforms and trading automation.** My projects bring together product interfaces, backend workflows and tools for monitoring what happens after deployment.
+**Software developer & [CCXT contributor](https://github.com/ccxt/ccxt).** I build mobile apps, web platforms and trading automation. My projects bring together product interfaces, backend workflows and tools for monitoring what happens after deployment.
 
 From casting portfolios to exchange integrations, I enjoy turning complex workflows into software people can use.
+
+## 🔀 Open-source work · CCXT
+
+> **53+ merged pull requests** in [ccxt/ccxt](https://github.com/ccxt/ccxt/pulls?q=is%3Apr+is%3Amerged+author%3AAresArtemius) · exchange integrations, unified APIs and WebSocket fixes.
+
+- **Exchange integrations:** [Backpack](https://github.com/ccxt/ccxt/pull/26449) and [Bullish](https://github.com/ccxt/ccxt/pull/25884).
+- **Unified order APIs:** [order methods by client order ID](https://github.com/ccxt/ccxt/pull/27076).
+- **WebSocket support:** [HTX unWatch methods](https://github.com/ccxt/ccxt/pull/26940), [BingX balance routing](https://github.com/ccxt/ccxt/pull/29936) and [spot order cost parsing](https://github.com/ccxt/ccxt/pull/30432).
+- **Market data:** [KuCoin funding rates](https://github.com/ccxt/ccxt/pull/30409), [TradeOgre tickers and OHLCV](https://github.com/ccxt/ccxt/pull/25425), and [Bitfinex ticker percentage correction](https://github.com/ccxt/ccxt/pull/30435).
+- **BingX maintenance:** funding history, OHLCV bounds, Coin-M contract amounts, order fees, market status and API-key restrictions.
+
+<sub>Milestone verified September 17, 2026. Follow the PR list for current contributions.</sub>
 
 ## 🚀 What I'm building
 
